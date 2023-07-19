@@ -1,0 +1,2 @@
+"split_part" can perform the same function in postgresql that "parsename" can perform in microsoft sql server
+ifnull == coalesce
